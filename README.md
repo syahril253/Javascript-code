@@ -1,3 +1,3 @@
 # Javascript-code
 
-skwkwkwk
+Hello Semua
